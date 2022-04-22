@@ -1,4 +1,4 @@
-# Wordlz
+# Wordyz
 
 Wordle like app with dynamic fields
 
